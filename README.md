@@ -29,13 +29,20 @@ Based in Bangladesh
 
 > A curated and organized collection of resources related to **golang-web-security**.
 
+**Humayun Shariar Himu**  
+A Passionated Psychologist & Tech Lover!  
+Based in Bangladesh  
+[GitHub Profile](https://github.com/HumayunShariarHimu)
+
+# golang-web-security
+
+> A curated and organized collection of resources related to **golang-web-security**.
+
 **Maintained by [Humayun Shariar Himu](https://github.com/HumayunShariarHimu)**
 
 # Golang Web Security
 
 Secure Golang web app with best practices: authentication, authorization, input validation, CSRF protection, and secure headers. Example code for secure development.
-
-## 💰 You can help me by Donating
 
 ## Table of Contents
 - [Tools](#tools)
