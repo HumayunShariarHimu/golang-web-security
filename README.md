@@ -2,13 +2,11 @@
 
 > A curated and organized collection of resources related to **golang-web-security**.
 
-**Maintained by [Humayun Shariar Himu](https://github.com/HumayunShariarHimu)**
 
 # Golang Web Security
 
 Secure Golang web app with best practices: authentication, authorization, input validation, CSRF protection, and secure headers. Example code for secure development.
 
-## Contact With Me:
 
 <div align="left">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="youtube logo"  />
@@ -23,9 +21,7 @@ Secure Golang web app with best practices: authentication, authorization, input 
   </a>
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="twitter logo"  />
   </a>
-</div>
 
-## 💰 You can help me by Donating
 
 ## Table of Contents
 - [Tools](#tools)
